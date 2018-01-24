@@ -1,0 +1,18 @@
+.chart {
+	margin: 20px;
+	text-align: center;
+}
+
+::ng-deep .dev-line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+::ng-deep .res-line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+svg {
+	overflow: visible;
+}
